@@ -1,2 +1,3 @@
-# PrepCourse-Hemry
-Este es un repositorio del modulo 2 
+Este proyecto es una prueba para subir de pc a git hub 
+Ricardo 
+
